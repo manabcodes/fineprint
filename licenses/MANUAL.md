@@ -1,0 +1,35 @@
+# Needs manual attention
+
+- `other`: vague label, scope decision needed
+- `openrail`: no SPDX id, fetch text by hand
+- `unknown`: vague label, scope decision needed
+- `cc`: vague label, scope decision needed
+- `creativeml-openrail-m`: no SPDX id, fetch text by hand
+- `gpl-3.0`: fetched as GPL-3.0-only; HF id has no -only/-or-later, confirm
+- `gpl`: vague label, scope decision needed
+- `bigscience-bloom-rail-1.0`: no SPDX id, fetch text by hand
+- `bigscience-openrail-m`: no SPDX id, fetch text by hand
+- `bigcode-openrail-m`: no SPDX id, fetch text by hand
+- `agpl-3.0`: fetched as AGPL-3.0-only; HF id has no -only/-or-later, confirm
+- `bsd`: vague label, scope decision needed
+- `llama2`: no SPDX id, fetch text by hand
+- `llama3.1`: no SPDX id, fetch text by hand
+- `llama3`: no SPDX id, fetch text by hand
+- `gfdl`: fetched as GFDL-1.3-only; HF id has no -only/-or-later, confirm
+- `gemma`: no SPDX id, fetch text by hand
+- `gpl-2.0`: fetched as GPL-2.0-only; HF id has no -only/-or-later, confirm
+- `llama3.2`: no SPDX id, fetch text by hand
+- `lgpl-3.0`: fetched as LGPL-3.0-only; HF id has no -only/-or-later, confirm
+- `openrail++`: no SPDX id, fetch text by hand
+- `llama3.3`: no SPDX id, fetch text by hand
+- `fair-noncommercial-research-license`: no SPDX id, fetch text by hand
+- `llama4`: no SPDX id, fetch text by hand
+- `grok2-community`: no SPDX id, fetch text by hand
+- `lgpl`: vague label, scope decision needed
+- `h-research`: no SPDX id, fetch text by hand
+- `lgpl-2.1`: fetched as LGPL-2.1-only; HF id has no -only/-or-later, confirm
+- `deepfloyd-if-license`: no SPDX id, fetch text by hand
+- `apple-amlr`: no SPDX id, fetch text by hand
+- `intel-research`: no SPDX id, fetch text by hand
+- `apple-ascl`: no SPDX id, fetch text by hand
+- `openmdw-1.1`: no SPDX id, fetch text by hand
