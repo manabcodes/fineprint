@@ -22,3 +22,9 @@ not verified ones.
 ![Families: datasets vs downloads](figures/fig4_family_datasets_vs_downloads.png)
 ![Datasets vs downloads per license](figures/fig5_datasets_vs_downloads.png)
 ![Licenses listed next to another one](figures/fig6_secondary_listings.png)
+
+## Data
+
+- Crawl script: [`scripts/crawl_hf_licenses.py`](../../scripts/crawl_hf_licenses.py) (`huggingface_hub`, about 9.5 minutes for the full Hub)
+- Per-dataset records (gzipped JSONL, 1,077,443 lines): attached to the [census release](../../releases/tag/census-2026-10-05)
+- SHA-256: `df4bef3d1a2375004efa8c262ebe99fbfc65fe7cf94f1a37862fc76cf2477593`
